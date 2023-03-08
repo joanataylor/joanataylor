@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-joanagrave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joana-grave)](https://www.linkedin.com/in/joana-grave/) [![Gmail Badge](https://img.shields.io/badge/-jotaylorgrave@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotaylorgrave@gmail.com)](mailto:jotaylorgrave@gmail.com)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p> -->
-- :octocat: [My Resume](https://drive.google.com/drive/u/0/my-drive)
+- :octocat: [My Resume](https://drive.google.com/file/d/1EL3jk_4kI472iBT96tgy7M2AdILRKyIt/view?usp=sharing)
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
