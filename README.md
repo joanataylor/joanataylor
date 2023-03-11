@@ -46,7 +46,7 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on 🔭 building **Mobile Apps using Typescript** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 <!-- ## Other Stuff
   - :octocat: [My Resume](https://docs.google.com/document/d/1m1x11hMoN03_-gmz2i6Y3CggD6-yoCWZelx1mNfi4dM/edit?usp=sharing) -->
