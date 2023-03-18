@@ -12,8 +12,8 @@
 
 ## :computer: Technologies I Love
 * Frontend and Backend Web Development
-* Machine Learning
 * Data Science
+* Machine Learning
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact"> -->
 
